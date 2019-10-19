@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KeySeluler03
+</name>
+</assembly>
+<members>
+<member name="T:KeySeluler03.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:KeySeluler03.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:KeySeluler03.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Retur_BarangDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BagianDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangKeluarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangMasukDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailKeluarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailMasukDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_SupplierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Retur_BarangRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BagianRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangKeluarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangMasukRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailKeluarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailMasukRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_SupplierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Retur_BarangRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BagianRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangKeluarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_BarangMasukRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailKeluarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_DetailMasukRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSet.Tbl_SupplierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Retur_BarangTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_BagianTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_BarangTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_BarangKeluarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_BarangMasukTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_DetailKeluarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_DetailMasukTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.Tbl_SupplierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KeySeluler03.DBPersediaan03DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KeySeluler03.DBPersediaan03DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KeySeluler03.DBPersediaan03DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.UpdateAll(KeySeluler03.DBPersediaan03DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:KeySeluler03.DBPersediaan03DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
